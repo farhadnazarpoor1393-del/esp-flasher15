@@ -1,12 +1,1 @@
-{
-  "name": "BlueX",
-  "version": "1.0.0",
-  "builds": [
-    {
-      "chipFamily": "ESP32",
-      "parts": [
-        { "path": "BlueX.bin", "offset": 0 }
-      ]
-    }
-  ]
-}
+
